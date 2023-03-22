@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests del GifItem component Tiene que hacer MATCH con el Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One Piece"
+      src="https://mugiwara.com.ar/sanji.jpg"
+    />
+    <p>
+      One Piece
+    </p>
+  </div>
+</div>
+`;
